@@ -10,13 +10,13 @@ Fill in the meta information about the dataset, including dataset name, dataset 
 Select "Upload in standard format", click "TrainingDML-AI" standard format, and upload the dataset file encoded in TrainDML-AI.
 Click the "Upload" button to upload the TrainDML-encoded file to the PIE Engine platform.
 
-![image-20230725163237141](C:\Users\19033\AppData\Roaming\Typora\typora-user-images\image-20230725163237141.png)
+![image-20230725163237141](https://github.com/TrainingDML/ImplementationCaseOfPIE/blob/main/img/datasetmetadataupload.png)
 
 ### Step 2: TrainingDML-AI data format validation
 After uploading, PIE Engine platform will automatically verify the format of the uploaded TrainingDML-AI encoded dataset file.
 If the dataset format is correct, the system will display a prompt of successful validation. If there is a format error, the system will provide relevant error information.
 
-![9c34950fc773575b095a5fc5031a2ed2](C:\Users\19033\AppData\Roaming\Tencent\TIM\Temp\9c34950fc773575b095a5fc5031a2ed2.png)
+![9c34950fc773575b095a5fc5031a2ed2](https://github.com/TrainingDML/ImplementationCaseOfPIE/blob/main/img/tdmlencodingupload.png)
 
 ### Step 3: Training data upload
 After the format validation is passed, you can choose to preview or view the sample content of the dataset.
@@ -38,7 +38,7 @@ On the selected dataset page, locate and click on the "Export to TDML Format" op
 
 The system will begin converting the dataset to TraingingDML-AI format. Wait for the export process to complete.
 
-![a795630fd6cddd761e64919f73db9ad9](C:\Users\19033\Documents\Tencent Files\1903398010\Image\C2C\a795630fd6cddd761e64919f73db9ad9.png)
+![a795630fd6cddd761e64919f73db9ad9](https://github.com/TrainingDML/ImplementationCaseOfPIE/blob/main/img/export.png)
 
 ### Step 3: Download TrainingDML-AI dataset encoding
 
